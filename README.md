@@ -3,7 +3,7 @@
 8th WallのA-FRAMEを使用したテンプレートファイルの作り方
 
 文献（8th wall公式）：
-https://github.com/i-am-ethan/8thwall-template.git
+https://www.8thwall.com/quick-start-web
 # 手順
 
 ## 1. APP KEYを取得する
